@@ -40,7 +40,7 @@ O Chat Online é um aplicativo de chat em tempo real desenvolvido com **Node.js*
 
 4. Inicie o servidor:
    ```sh
-   npm start
+   npm run dev
    ```
 
 5. Acesse no navegador:
