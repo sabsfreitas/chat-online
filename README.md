@@ -6,13 +6,15 @@ O Chat Online é um aplicativo de chat em tempo real desenvolvido com **Node.js*
 
 ✅ **Mensagens em tempo real**: Os usuários podem enviar e receber mensagens instantaneamente.
 
+✅ **Mensagens privadas**.
+
 ✅ **Definição de apelido (nickname)**: Cada usuário pode escolher seu próprio nome de exibição.
 
 ✅ **Notificação de entrada e saída**: O chat avisa quando um usuário entra ou sai da sala.
 
 ✅ **Indicação de digitação**: Mostra quando um usuário está digitando.
 
-✅ **Interface responsiva e amigável**: Layout simples e otimizado para diferentes dispositivos.
+✅ **Usuários online**: Mostra quais são os usuários estão online.
 
 ## 🚀 Tecnologias Utilizadas
 
