@@ -15,11 +15,18 @@
     </form>
 
     <ul id="messages"></ul>
-    <p id="typing-indicator"></p>
+    <p id="typing-status"></p>
+    <p>Usuários online: <span id="users-online"></span></p>
 
     <form id="form">
         <input id="input" placeholder="Digite sua mensagem..." autocomplete="off">
         <button>Enviar</button>
+    </form>
+
+    <form id="private-form">
+        <input id="private-to" placeholder="Destinatário" autocomplete="off">
+        <input id="private-message" placeholder="Mensagem privada..." autocomplete="off">
+        <button>Enviar mensagem privada</button>
     </form>
 
     <script src="/socket.io/socket.io.js"></script>
